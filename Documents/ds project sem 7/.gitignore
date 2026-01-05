@@ -1,9 +1,0 @@
-*.jpg
-*.json
-*.zip
-val2014/
-train2014/
-*.h5
-__pycache__/
-.ipynb_checkpoints/
-vqa_tf/
